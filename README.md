@@ -1,4 +1,4 @@
-## 🎨 Neural Style Transfer System – Deep Learning (Streamlit)
+# 🎨 Neural Style Transfer System – Deep Learning (Streamlit)
 
 This project is a **Neural Style Transfer (NST) system** that blends the content of one image with the artistic style of another using **Deep Learning**.
 The application is built using **Python**, **TensorFlow/Keras (VGG19)**, and **Streamlit** for an interactive web-based interface.
@@ -70,32 +70,3 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
-## 📁 Project Structure
-
-```
-├── app.py                # Streamlit frontend
-├── nst.py                # Neural Style Transfer backend logic
-├── requirements.txt      # Project dependencies
-├── images/               # Sample input/output images
-├── .streamlit/           # Streamlit configuration
-├── Neural Style Transfer.png
-```
-
-## 📚 Technologies Used
-
-* Python
-* TensorFlow / Keras
-* VGG19 (Pretrained CNN)
-* Streamlit
-* NumPy
-* Pillow (PIL)
-
-## 📌 Outcome
-
-The application successfully demonstrates **Neural Style Transfer** by preserving the structural content of an image while applying artistic textures from a style image.
-It provides an easy-to-use platform for experimenting with deep learning–based image stylization.
-
-* or a **deployment-ready version**
-
-just say it 👍
