@@ -3,7 +3,7 @@
 This project is a **Neural Style Transfer (NST) system** that blends the content of one image with the artistic style of another using **Deep Learning**.
 The application is built using **Python**, **TensorFlow/Keras (VGG19)**, and **Streamlit** for an interactive web-based interface.
 
-## 📌 Features
+### 📌 Features
 
 * Upload **content image** and **style image**
 * Generate a **stylized output image**
