@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+pillow
+matplotlib
+streamlit
+scikit-image
+lpips
+pytorch-fid
